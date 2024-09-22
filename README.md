@@ -1,24 +1,11 @@
-<h1 align="center">Hi 👋, I'm Maxence</h1>
-<h3 align="center">A computer science enthusiast</h3>
+# Hi, I'm Maxence 👋🏻🇫🇷
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxencechx" alt="maxencechx" /></a> </p>
+I'm a French computer science student passionate about development and innovation. I enjoy working with PHP, particularly Symfony, and I'm always eager to explore new technologies. I love building software solutions and sharing my knowledge with others. I often stream programming sessions where I work on various projects and discuss coding techniques.
 
-- 🔭 I’m currently working at [Tidle Group](https://github.com/Tidle-Groupe)
+## Find me around the web 🌍:
 
-- 🌱 I’m currently learning **computer science, java**
+<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/e7494374-40d6-4247-a0c6-ac578adc4dfe">
 
-- 💬 Ask me about **anything**
 
-- 📫 How to reach me **maxchaix54@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maxence_chx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxence_chx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maxence-chaix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxence-chaix" height="30" width="40" /></a>
-<a href="https://instagram.com/maxence_chx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxence_chx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@maxagame_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maxagame" height="30" width="40" /></a>
-<a href="https://discord.gg/mtDXcZs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mtDXcZs" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Catch me live coding sometimes on [Twitch](https://www.twitch.tv/maxagame_) 🎥👨‍💻
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/maxence-chaix) 💼
