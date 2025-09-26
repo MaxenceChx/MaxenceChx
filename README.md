@@ -35,7 +35,7 @@ Actuellement basé à Nancy, je prends plaisir à apprendre et à créer des pro
 <br>
 
 ## 🌍 À propos de moi
-- 🎓 Étudiant en BUT Informatique à l’IUT Nancy-Charlemagne
+- 🎓 Étudiant Ingénieur Informatique à CESI
 - 👨‍💻 Apprenti chez **SNCF Réseau**
 - 🌱 Passionné par le développement fullstack et la tech
 - 🚀 Intéressé par l’espace et la photographie
