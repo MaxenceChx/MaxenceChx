@@ -31,7 +31,7 @@ Je conçois des applications web et des outils numériques, de l'idée à la mis
 **Au quotidien**
 
 <p>
-  <img alt="PHP, Symfony, Twig, JavaScript, PostgreSQL, MySQL, MongoDB" src="https://skillicons.dev/icons?i=php,symfony,twig,js,postgres,mysql,mongodb" />
+  <img alt="PHP, Symfony, JavaScript, PostgreSQL, MySQL, MongoDB" src="https://skillicons.dev/icons?i=php,symfony,js,postgres,mysql,mongodb" />
 </p>
 
 **En exploration**
